@@ -1,1 +1,3 @@
 print("Hello World!");
+print("еще раз Hello World!");
+print("еще раз еще раз Hello World!");
